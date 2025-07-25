@@ -1,2 +1,2 @@
 # Brain-Tumor-Segmentation
-This repository contains an implementation of brain tumor segmentation using deep learning architectures such as U-Net and DeepLabV3. It utilizes the BraTS2020 dataset.
+This repository contains an implementation of brain tumor segmentation using deep learning architectures such as U-Net and DeepLabV3. It utilizes the BraTS2020 dataset, which includes multi-modal MRI scans (T1, T1ce, T2, FLAIR) and annotated ground truth segmentation masks (seg.nii). The models are trained to accurately segment tumor sub-regions like edema, enhancing tumor, and necrotic core.
